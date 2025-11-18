@@ -1,3 +1,5 @@
+// Ques: Find out the sum of digits of a number.
+
 package Loops;
 
 import java.util.Scanner;

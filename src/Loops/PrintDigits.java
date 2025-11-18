@@ -1,3 +1,6 @@
+// Ques: Print the digits of a number in separate lines. 
+// E.g.- Input: 234 Output: 2 3 4 (each digit in new line)
+
 package Loops;
 
 import java.util.Scanner;

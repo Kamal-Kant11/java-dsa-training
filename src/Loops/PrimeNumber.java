@@ -1,3 +1,5 @@
+// Ques: Find out the input number is Prime or not.
+
 package Loops;
 
 import java.util.Scanner;
